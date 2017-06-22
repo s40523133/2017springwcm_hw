@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017 SPRING 網際內容管理 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-05T12:00:00+08:00</updated><entry><title>5/5</title><link href="./55.html" rel="alternate"></link><published>2017-05-05T12:00:00+08:00</published><updated>2017-05-05T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-05-05:./55.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;筆記:
+micro是vitual Box 的原公司&lt;/p&gt;
+&lt;p&gt;主開機紀錄（Master Boot Record，縮寫：MBR）&lt;/p&gt;
+&lt;p&gt;固態硬碟（英語：Solid State Disk、Solid State Drive，簡稱SSD）是一種以記憶體作為永久性記憶體的電腦儲存裝置。
+發生故障時,不會有預兆&lt;/p&gt;
+&lt;p&gt;小型電腦系統介面（SCSI，Small Computer System Interface）是一種用於電腦及其週邊裝置之間（硬碟、軟碟機、光碟機、印表機、掃描器等）系統級介面的獨立處理器標準。會有Raid&lt;/p&gt;
+&lt;p&gt;作業:&lt;/p&gt;
+&lt;p&gt;git clone CMsimfly&lt;/p&gt;
+&lt;p&gt;打開cmsimfly.leo&lt;/p&gt;
+&lt;p&gt;修改wsgi.py&lt;/p&gt;
+&lt;p&gt;並修改IP位址&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>4/28</title><link href="./428.html" rel="alternate"></link><published>2017-04-28T12:00:00+08:00</published><updated>2017-04-28T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-28:./428.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;筆記(不完整):
+WWW=&amp;gt;佈滿全球的蜘蛛網,1990年建立&lt;/p&gt;
+&lt;p&gt;要給別人抓資料,協定為http&lt;/p&gt;
+&lt;p&gt;http =&amp;gt;highpour&lt;/p&gt;
+&lt;p&gt;apach為WWW的伺服&lt;/p&gt;
+&lt;p&gt;stunnl:代理主機&lt;/p&gt;
+&lt;p&gt;電腦好,才會比較好跑虛擬主機&lt;/p&gt;
+&lt;p&gt;今日任務:&lt;/p&gt;
+&lt;p&gt;下載ubuntu_wcm_midterm.vdi,&lt;/p&gt;
+&lt;p&gt;並建立ubnutu 之虛擬主機,&lt;/p&gt;
+&lt;p&gt;用指令ifconfig找出IP,&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>2017-04-21上課內容練習</title><link href="./2017-04-21shang-ke-nei-rong-lian-xi.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-25:./2017-04-21shang-ke-nei-rong-lian-xi.html</id><summary type="html">&lt;p&gt;在Virtualbox中,以橋接網路卡設定,建立一台 Ubuntu伺服主機&lt;/p&gt;
+
+
+&lt;p&gt;sudo apt update幫我們把下載的網站資料update到最新,&lt;/p&gt;
+&lt;p&gt;如果不行就用 sudo rm /var/lib/dpkg/lock 把lock刪除掉 ,&lt;/p&gt;
+&lt;p&gt;sudo apt install nginx 安裝nginx ,用ifconfig再到外部的瀏覽器打上IP:80就可以看到,&lt;/p&gt;
+&lt;p&gt;如果像要知道檔案在哪裡就 cd /var/www/html , ls -l ,sudo vi index.nginx-debian.html 就可更改&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/214261267" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/214261267"&gt;上課內容練習&lt;/a&gt; 來源 &lt;a href="https://vimeo.com/user58667333"&gt;隊友陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="Ubuntu"></category><category term="Virtualbox"></category></entry><entry><title>期中心得</title><link href="./qi-zhong-xin-de.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-25:./qi-zhong-xin-de.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;這次的課程又多了許多的東西要學，&lt;/p&gt;
+&lt;p&gt;似乎只要錯過一次，&lt;/p&gt;
+&lt;p&gt;就會大大的落後大家，&lt;/p&gt;
+&lt;p&gt;再說這課程對新手來說，&lt;/p&gt;
+&lt;p&gt;真的是頗難的，&lt;/p&gt;
+&lt;p&gt;像是建立自己的伺服器，&lt;/p&gt;
+&lt;p&gt;需要記的東西實在是太多了，&lt;/p&gt;
+&lt;p&gt;看似簡單的操作步驟，&lt;/p&gt;
+&lt;p&gt;卻因為英文程度的差勁，&lt;/p&gt;
+&lt;p&gt;導致許多的東西需要請旁邊的同學協助，&lt;/p&gt;
+&lt;p&gt;還好有抄一些筆記，&lt;/p&gt;
+&lt;p&gt;讓我記憶如何操作，&lt;/p&gt;
+&lt;p&gt;雖然我有一點漫不經心，&lt;/p&gt;
+&lt;p&gt;希望老師可以給我過。&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>網路線製作</title><link href="./wang-lu-xian-zhi-zuo.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-25:./wang-lu-xian-zhi-zuo.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;在課程中，&lt;/p&gt;
+&lt;p&gt;出現了製作網路線的任務，&lt;/p&gt;
+&lt;p&gt;乍看之下不難，&lt;/p&gt;
+&lt;p&gt;但我們的第七組似乎只成功了一半，&lt;/p&gt;
+&lt;p&gt;材料: 
+RJ-45接頭
+&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/IMG_3943.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;8蕊網路線
+&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/IMG_3965.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;剪刀
+&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/123.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;壓線鉗
+&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/images.jpg" /&gt;          &lt;/p&gt;
+&lt;p&gt;以下是製作步驟:&lt;/p&gt;
+&lt;p&gt;利用工具將網路線之外層剝除2~3cm&lt;/p&gt;
+&lt;p&gt;依照下圖&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Foo" src="https://github.com/s40523133/2017springwcm_g7/blob/gh-pages/image/exp321-T568B.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;做整線的工作&lt;/p&gt;
+&lt;p&gt;須剪齊線頭&lt;/p&gt;
+&lt;p&gt;最後將現插入接頭，並以壓線器完成&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;做這真的不容易，&lt;/p&gt;
+&lt;p&gt;用了很久才成功一頭而已，&lt;/p&gt;
+&lt;p&gt;只不過完成了之後有成就感。
+&lt;/p&gt;&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>用start開啟Leo</title><link href="./yong-startkai-qi-leo.html" rel="alternate"></link><published>2017-04-25T12:00:00+08:00</published><updated>2017-04-25T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-04-25:./yong-startkai-qi-leo.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;開啟SciTE編輯start.bat找到python.exe開啟之後再讀取launchLeo.py然後在哪裡&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/214636780" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/214636780"&gt;自行開啟Leo&lt;/a&gt; from &lt;a href="https://vimeo.com/user58667333"&gt;陳士正&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry></feed>
