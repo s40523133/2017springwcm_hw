@@ -42,8 +42,35 @@
 <v t="leo.20170622234901.1"><vh>4</vh>
 <v t="leo.20170622234901.2"><vh>5</vh></v>
 </v>
-<v t="leo.20170623000046.1" a="E"><vh>5</vh>
+<v t="leo.20170623000046.1"><vh>5</vh>
 <v t="leo.20170623000046.2"><vh>6</vh></v>
+</v>
+<v t="leo.20170623005519.1"><vh>6</vh>
+<v t="leo.20170623005519.2"><vh>7</vh></v>
+</v>
+<v t="leo.20170623011554.1" a="E"><vh>7</vh>
+<v t="leo.20170623011554.2"><vh>8</vh></v>
+</v>
+<v t="leo.20170623012059.1"><vh>8</vh>
+<v t="leo.20170623012059.2"><vh>9</vh></v>
+</v>
+<v t="leo.20170623012709.1" a="E"><vh>9</vh>
+<v t="leo.20170623012709.2"><vh>10</vh></v>
+</v>
+<v t="leo.20170623013004.1"><vh>10</vh>
+<v t="leo.20170623013004.2"><vh>11</vh></v>
+</v>
+<v t="leo.20170623013700.1"><vh>11</vh>
+<v t="leo.20170623013700.2"><vh>12</vh></v>
+</v>
+<v t="leo.20170623014341.1"><vh>12</vh>
+<v t="leo.20170623014341.2"><vh>13</vh></v>
+</v>
+<v t="leo.20170623015040.1"><vh>13</vh>
+<v t="leo.20170623015040.2"><vh>14</vh></v>
+</v>
+<v t="leo.20170623015342.1" a="E"><vh>14</vh>
+<v t="leo.20170623015342.2"><vh>15</vh></v>
 </v>
 </v>
 </v>
@@ -577,5 +604,160 @@ Created by [40523133](https://github.com/s40523133)
  白綠、綠、白橙、藍、白藍、橙、白棕、棕&lt;br/&gt;
  
  使用同接法會得到網路線，不同接法則能得到跳線。</t>
+<t tx="leo.20170623005519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623005519.2">## 網路線顏色及跳線設定
+
+白橙:傳送資料正極TH+&lt;br/&gt;
+橙    :傳送資料正極TH-&lt;br/&gt;
+白綠:接收資料正極RX+&lt;br/&gt;
+綠    :接收資料負極RX-&lt;br/&gt;
+藍、白藍、白棕、棕:X&lt;br/&gt;
+
+跳線設定:
+* 兩電腦設定IP與DNS
+* 設定工作群
+* 硬碟共用</t>
+<t tx="leo.20170623011554.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623011554.2">## 筆記1
+
+學校DNS=&gt;2001:288:6004:17::17&lt;br/&gt;
+中華電信=&gt;2001:b000:168::1&lt;br/&gt;
+proxy=&gt;[2001:288:6004:17::17]&lt;br/&gt;
+
+雲端特性:彈性(工具)
+
+MBR(Master Boot Record)
+
+ </t>
+<t tx="leo.20170623012059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623012059.2">## 筆記2
+
+SSD固態硬碟(不旋轉)(無法預先知道即將損壞)&lt;br/&gt;
+動態硬碟(可預先知道即將損壞)&lt;br/&gt;
+SCSI(Small Computer System Interface)是一種電腦集線技術&lt;br/&gt;
+</t>
+<t tx="leo.20170623012709.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623012709.2">## 筆記3
+
+創新:自學力、執行力、想像力&lt;br/&gt;
+proxy:跑單方、代理主機&lt;br/&gt;
+機械設計與網際網路相關連性&lt;br/&gt;
+fe80:內部IP</t>
+<t tx="leo.20170623013004.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623013004.2">## 筆記4
+
+機械設計:討論考量後，將器具表達出來&lt;br/&gt;
+
+表達方式:口語、文字、2D繪圖、實際觀看、量化&lt;br/&gt;
+機:很多零件組合且可精巧運作的器具&lt;br/&gt;
+械:"戒"指的是限制，也就是說"械"就是在一定範圍內&lt;br/&gt;
+設:用方法表達&lt;br/&gt;
+計:經考量討論&lt;br/&gt;</t>
+<t tx="leo.20170623013700.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623013700.2">## 筆記5
+
+硬體、流體、軟體:最佳化&lt;br/&gt;
+虛實整合=&gt;虛:網路數位化&lt;br/&gt;</t>
+<t tx="leo.20170623014341.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623014341.2">## 筆記6
+
+PC+network-Hardware電腦加網路安裝&lt;br/&gt;
+Ubuntu-Operating Sytem作業系統&lt;br/&gt;
+Cmsimfly-web based content mangement system&lt;br/&gt;
+fossil scm source code configuration&lt;br/&gt;
+SQL ite 3-fossil(5M)系統資料&lt;br/&gt;
+ LinuX-git(200M)&lt;br/&gt;
+ </t>
+<t tx="leo.20170623015040.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623015040.2">## 筆記7
+ 
+ ipconfig/all -找出IP&lt;br/&gt;
+ ping 自己IP&lt;br/&gt;
+ ping Gateway IP&lt;br/&gt;
+ ping 外部IP&lt;br/&gt;
+ </t>
+<t tx="leo.20170623015342.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170623015342.2">## 筆記8
+
+tracert區網主要網站&lt;br/&gt;
+fossil done uri fossil-file&lt;br/&gt;
+fossil open&lt;br/&gt;
+fossil add 140.130.17.17  254&lt;br/&gt;
+tracert www.nfu.edu.tw&lt;br/&gt;
+fossil commit -m&lt;br/&gt;
+fossil remote -url off&lt;br/&gt;
+fossil push&lt;br/&gt;</t>
 </tnodes>
 </leo_file>
