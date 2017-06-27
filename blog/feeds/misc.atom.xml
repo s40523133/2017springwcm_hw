@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017 SPRING 網際內容管理 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-05-05T12:00:00+08:00</updated><entry><title>5/5</title><link href="./55.html" rel="alternate"></link><published>2017-05-05T12:00:00+08:00</published><updated>2017-05-05T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-05-05:./55.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017 SPRING 網際內容管理 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2017-06-27T12:00:00+08:00</updated><entry><title>組裝伺服電腦</title><link href="./zu-zhuang-si-fu-dian-nao.html" rel="alternate"></link><published>2017-06-27T12:00:00+08:00</published><updated>2017-06-27T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-06-27:./zu-zhuang-si-fu-dian-nao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;將兩台主機重組成一台16RAM的電腦，&lt;/p&gt;
+&lt;p&gt;並安裝Unbutu&lt;/p&gt;
+&lt;p&gt;重組電腦:&lt;/p&gt;
+&lt;p&gt;1.將電腦的側板螺絲鬆開&lt;/p&gt;
+&lt;p&gt;2.側板卸下&lt;/p&gt;
+&lt;p&gt;3.將安全卡記憶消除(電池拔除)&lt;/p&gt;
+&lt;p&gt;4.安全卡拆下&lt;/p&gt;
+&lt;p&gt;5.將硬碟、RAM拆下&lt;/p&gt;
+&lt;p&gt;6.硬碟、RAM裝到要組裝的機殼裡&lt;/p&gt;
+&lt;p&gt;7.完成後，將側板裝上，並鎖上螺絲&lt;/p&gt;</summary><category term="Leo"></category><category term="python"></category></entry><entry><title>5/5</title><link href="./55.html" rel="alternate"></link><published>2017-05-05T12:00:00+08:00</published><updated>2017-05-05T12:00:00+08:00</updated><author><name>chen</name></author><id>tag:,2017-05-05:./55.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;筆記:
 micro是vitual Box 的原公司&lt;/p&gt;
